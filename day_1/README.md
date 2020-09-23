@@ -85,7 +85,7 @@ The command `git status` shows us information about files we changed. Don't worr
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
-    new file:   day1-exercises.md
+    new file:   day1-ecodepenxercises.md
 
 ```
 
